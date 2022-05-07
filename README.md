@@ -52,7 +52,7 @@ Here are the technologies used in this project.
 
 ### Here is your initial page. You can create a room or find some room if you have the meeting code.
 
-![Homepage image](https://github.com/Lucasdfg07/Google_Meet_Clone/blob/master/public/readme/home.png)
+
 
 ## Features
 
