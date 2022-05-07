@@ -38,6 +38,9 @@ Here are the technologies used in this project.
   
 * To create the previous files to use on the project, on the database.
   - rake db:seed
+
+* To instalar bootstrap
+  - yarn install
   
 * To install the gems.
   - bundle install
@@ -51,14 +54,6 @@ Here are the technologies used in this project.
 
 ![Homepage image](https://github.com/Lucasdfg07/Google_Meet_Clone/blob/master/public/readme/home.png)
 
-### When you join or create some room, you'll see something like this.
-
-![Room Show](https://github.com/Lucasdfg07/Google_Meet_Clone/blob/master/public/readme/room_1.png)
-
-### And you can also talk with other participants, and relaxxxx, It's everything with Action Cable :D
-
-![Room Show](https://github.com/Lucasdfg07/Google_Meet_Clone/blob/master/public/readme/room_1.png)
-
 ## Features
 
 The main features of the application are:
@@ -69,9 +64,9 @@ The main features of the application are:
 
 
 ## Links
-  - Repository: https://github.com/Lucasdfg07/Google_Meet_Clone
+  - Repository: https://github.com/drtsoficial/videochat
     - In case of sensitive bugs like security vulnerabilities, please contact
-      Lucassiqueiraferandes07@gmail.com directly instead of using issue tracker. We value your effort
+      victornascimento@datarockets.dev directly instead of using issue tracker. We value your effort
       to improve the security and privacy of this project!
 
   ## Versioning
@@ -81,7 +76,7 @@ The main features of the application are:
 
   ## Authors
 
-  * **Lucas Siqueira Fernandes** 
+  * **Victor Nascimento** 
 
   Please follow github and join us!
   Thanks to visiting me and good coding!
